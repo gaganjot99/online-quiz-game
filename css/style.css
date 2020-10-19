@@ -1,1 +1,14 @@
+.container{
+  width:940px;
+  background-color: #fff;
+  box-shadow: 0 0 50px 0 rgba(0,0,0,0.2);
+  min-height: 350px;
+  padding:80px 90px;
+  border-radius:15px;
+  display:flex;
 
+}
+.rightSide h1{
+  color: #1da3dd;
+font-size: 32px;
+}
